@@ -1,2 +1,2 @@
 # Deneme
-Grup projesi için deneme
+Grup projesi için deneme dosyası
